@@ -10,7 +10,7 @@
             </h2>
         </div>
         <div class="w-full flex justify-center sm:justify-end mt-6 sm:mt-4 md:-mt-40 pr-40">
-            <a href="../files/Sergio_Cruz_Salinas_CV.pdf" download>
+            <a href="/files/Sergio_Cruz_CV.pdf" download>
                 <button class="px-10 py-2 bg-[#FF5722] text-white font-semibold rounded-lg hover:bg-blue-700">
                     Descargar CV
                 </button>
