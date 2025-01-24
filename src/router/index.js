@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import Layout from "@/modules/layouts/Layout.vue";
+import Layout from '@/modules/layouts/Layout.vue';
 import Home from "@/modules/views/Home.vue";
 import About from "@/modules/views/About.vue";
 import Projects from "@/modules/views/Projects.vue";
@@ -7,6 +7,7 @@ import Projects from "@/modules/views/Projects.vue";
 const routes = [
   {
     path: '/',
+    name: 'inicio',
     component: Layout,
     redirect:{name: 'home'},
     children: [

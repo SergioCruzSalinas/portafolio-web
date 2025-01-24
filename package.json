@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "test:unit": "vitest",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build",
-    "start": "vite preview"
+    "type-check": "vue-tsc --build"
   },
   "dependencies": {
     "pinia": "^2.3.0",
